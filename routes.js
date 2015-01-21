@@ -32,8 +32,8 @@ Router.map(function () {
     }
   });
 
-  this.route('news', {
-    path: '/news',
+  this.route('profile', {
+    path: '/profile',
   });
 
   this.route('project', {
