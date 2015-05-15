@@ -9,7 +9,7 @@ accounts-base
 accounts-password
 deepwell:authorization
 joshowens:accounts-entry
-nooitaf:semantic-ui
+semantic:ui-css
 aldeed:autoform
 aldeed:collection2
 fourseven:scss
